@@ -1,0 +1,436 @@
+{
+  "recetasPopulares": [
+    {
+      "título": "PASTEL DE PLATÁNO",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/36566/45430.jpg",
+      "descripción": "Dale la vuelta al pan de plátano con esta receta de pastelito relleno, sabor vainilla, con relleno de puré de plátano y hecho en forma de la fruta. Un pastelito en forma de plátano en presentación individual será perfecto para la hora del postre o como pastel para celebrar alguna ocasión especial. Esta es una presentación creativa para elaborar un rollo, el sabor es delicioso, tiene una forma divertida y el sabor y la textura que se logra son ligeros.",
+      "categoria": "Postre",
+      "duración": "30 min",
+      "dificultad": "Fácil",
+      "preparación": "1-.Para el bizcocho, bate las yemas con el azúcar hasta doblar tamaño y reserva; bate las claras con el azúcar hasta doblar tamaño y junta con la mezcla anterior. Incorpora poco a poco la harina cernida de forma envolvente y agrega la mantequilla derretida; finalmente, incorpora el colorante amarillo. Extiende en una plancha y hornea a 180 °C por 15 minutos.2-.Una vez que salga de horno, corta de inmediato la plancha en rectángulos de 15 x 10 cm aproximadamente, coloca el relleno, enrolla con la ayuda de una película plástica y da forma curva. Congela por 15 minutos.3-.Para el relleno, mezcla las yemas con la vainilla, el azúcar y la fécula de maíz. Calienta la leche y el puré de plátano. Agrega la leche caliente poco a poco a la mezcla de yemas y regresa todo junto al fuego por 5 minutos hasta que se espese, entonces, agrega el chocolate. Enfría y reserva.4-.Mezcla chocolate blanco con el aceite vegetal y el colorante amarillo. Con ayuda de un cucharón, cubre el pastelito con el chocolate y enfría por unos minutos. Sirve los pastelitos y decora con hierbabuena.",
+      "ingredientes": [
+        {
+          "ingrediente": "6 Yemas de huevo para el bizcocho.",
+          "fotoIngrediente": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Yemas.JPG/250px-Yemas.JPG"
+        },
+        {
+          "ingrediente": "1/2 de taza de azúcar para el bizcocho",
+          "fotoIngrediente": "https://4.bp.blogspot.com/-64dn73qX8nU/WMKLxB4gmOI/AAAAAAAS4yQ/B7t6Zp8GugoSxyTOEtcwTlOWGNyvQLOdgCLcB/s1600/azucar-adictamente.jpg"
+        },
+        {
+          "ingrediente": "6 Claras de huevo para el bizcocho",
+          "fotoIngrediente": "https://avicultura.com/wp-content/uploads/2019/04/Clara-de-huevo-para-proroduccion-de-hidrogeno-550x275.jpg"
+        },
+        {
+          "ingrediente": "1 taza de harina para el bizcohco",
+          "fotoIngrediente": "https://t1.rg.ltmcdn.com/es/images/7/6/3/cuanto_es_una_taza_en_gramos_71367_600.jpg"
+        },
+        {
+          "ingrediente": "1/4 de taza de mantequilla para el bizcocho",
+          "fotoIngrediente": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/ts/20170911094550/ri/673/picture/2017/9/shutterstock_195762665.jpg"
+        },
+        {
+          "ingrediente": "Colorante artifical liquido amarillo",
+          "fotoIngrediente": "https://deiman.com.mx/wp-content/uploads/2015/06/3790-AMARILLO-HUEVO-370-30ML-DEIMAN-600x600.jpg"
+        },
+        {
+          "ingrediente": "2 Yemas de huevo para el relleno",
+          "fotoIngrediente": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Yemas.JPG/250px-Yemas.JPG"
+        },
+        {
+          "ingrediente": "1/4 de taza de azucar para el relleno",
+          "fotoIngrediente": "https://4.bp.blogspot.com/-64dn73qX8nU/WMKLxB4gmOI/AAAAAAAS4yQ/B7t6Zp8GugoSxyTOEtcwTlOWGNyvQLOdgCLcB/s1600/azucar-adictamente.jpg"
+
+        },
+        {
+          "ingrediente": "2 cucharadas de fecula de maíz para el relleno",
+          "fotoIngrediente": "https://alimentos.org.es/img-alimentos.org.es/maizena.jpg"
+        },
+        {
+          "ingrediente": "1 cucharada de extracto de vainilla para el relleno",
+          "fotoIngrediente": "https://mejorconsalud.as.com/wp-content/uploads/2020/11/esencia-vainilla-casero-500x334.jpg"
+        },
+        {
+          "ingrediente": "1 y 1/2 tazas de pure de plátano para el relleno",
+          "fotoIngrediente": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2016/07/banana-puree.jpg"
+        },
+        {
+          "ingrediente": "1/2 taza de leche de para el relleno",
+          "fotoIngrediente": "https://danzadefogones.com/wp-content/uploads/2021/02/leche-de-coco-2.jpg"
+        },
+        {
+          "ingrediente": "2 cucharadas de chocolate semi-amargo para el relleno",
+          "fotoIngrediente": "https://www.lamansiondelasideas.com/wp-content/uploads/2017/02/GRANDE-COMO-FUNDIR-CHOCOLATE-TRUCOS-Y-CONSEJOS.jpg"
+        },
+        {
+          "ingrediente": "1 y 1/2 tazas de chocolate blancos para la cubierta",
+          "fotoIngrediente": "https://content-recetas.lecturas.com/medio/2018/11/19/paso_a_paso_para_realizar_coulant_nevado_de_chocolate_blanco_mezclar_el_chocolate_fundido_con_la_mantequilla_fa2404c4_662x1000.jpg"
+        },
+        {
+          "ingrediente": "1/4 de taza de aceite vegetal para la cubierta",
+          "fotoIngrediente": "https://www.lavanguardia.com/files/image_948_465/uploads/2018/06/29/5e9980e44b547.jpeg"
+        },
+        {
+          "ingrediente": "Colorante de gel amarillo",
+          "fotoIngrediente": "https://www.orquidea.com.co/image/cache/catalog/Products/Wilton/610-301_1-1000x1000.jpg"
+        },
+        {
+          "ingrediente": "Hojas de hierbabuena como decoracion",
+          "fotoIngrediente": "https://image.freepik.com/foto-gratis/hojas-hierbabuena-verde_5207-104.jpg"
+        }
+      ]
+    },
+    {
+      "título": "ROLLOS DE POLLO CON SALSA DE CHAMPIÑONES",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/27190/25223.jpg",
+      "descripción": "Estos rollitos de pasta rellenos de pollo en salsa de champiñones, son cremosos por dentro y por fuera, bañados con una rica salsa de champiñones y gratinados con queso manchego que los hacen irresistiblemente deliciosos.",
+      "categoria": "Carnes y aves",
+      "duración": "55min",
+      "dificultad": "Fácil",
+      "preparación": "1-.Precalienta el horno a 180°C.2-.En una ollita con agua hirviendo y sal, cocina la pasta para lasaña según las instrucciones del paquete. Escurre y agrega una cucharada de aceite para evitar que se peguen y reserva.3-.En un sartén a fuego medio, saltea la cebolla en aceite de oliva con mantequilla hasta que esté transparente y enseguida agrega el ajo, cocina un minuto. Añade el pollo y cocina unos minutos.4-.Incorpora los champiñones y el tomillo y cocina por 5 minutos. Sazona con sal y pimienta. Reserva.5-.Para la salsa, en una ollita derrite la mantequilla y agrega la crema de champiñones Campbell’s® y la leche. Deja que suelte el hervor y sazona con sal. Reserva.6-.Para el armado, sobre una lámina de pasta coloca un poco del relleno de pollo y una cucharadita de la salsa de champiñones, enrolla y coloca en un refractario para horno. Repite.7-.Salsea todos los rollos con el resto de la salsa y cubre con el queso. Hornea por 15 minutos o hasta que el queso se derrita. Sirve de inmediato.",
+      "ingredientes": [
+        {
+          "ingrediente": "1 paquete de pasta de lasagna",
+          "fotoIngrediente": "https://i.pinimg.com/564x/4e/57/ca/4e57cabd6017703ba3fbddce56b3ef58.jpg"
+        },
+        {
+          "ingrediente": "1 cucharada de aceite para la pasta",
+          "fotoIngrediente": "https://ichef.bbci.co.uk/news/800/cpsprodpb/D422/production/_95160345_oil_comp.jpg"
+        },
+        {
+          "ingrediente": "2 cucharadas de aceite de oliva",
+          "fotoIngrediente": "https://static3-sevilla.abc.es/Media/201310/14/aceite-oliva--644x362.jpg"
+        },
+        {
+          "ingrediente": "1 cucharada de mantequilla",
+          "fotoIngrediente": "http://1.bp.blogspot.com/-XMN9t-cBmQc/VVuPGSpaZPI/AAAAAAAAAUo/VCZHNGlKLg0/s320/o-MANTEQUILLA-MARGARINA-facebook.jpg"
+        },
+        {
+          "ingrediente": "1/4 de taza de cebolla finamente picada",
+          "fotoIngrediente": "https://static2.abc.es/media/bienestar/2020/02/25/cebolla-pelada-k1mG--540x285@abc.jpg"
+        },
+        {
+          "ingrediente": "1 diente de ajo finamente picado",
+          "fotoIngrediente": "https://assets.tmecosys.com/image/upload/t_web667x528/img/recipe/ras/Assets/6396B92F-7107-468B-8389-0C2E7C05141F/Derivates/fcebe0e9-058e-4618-ad41-60d9a7280c45.jpg"
+        },
+        {
+          "ingrediente": "2 tazas de pechuga de pollo cocida y desmenuzada",
+          "fotoIngrediente": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2019/10/trucos-para-evitar-que-el-pollo-quede-seco.jpg"
+        },
+        {
+          "ingrediente": "1 taza de champiñon fileteado",
+          "fotoIngrediente": "https://cdn.kiwilimon.com/ss_secreto/562/th5-640x426-562.jpg"
+        },
+        {
+          "ingrediente": "1 cucharada de tomillo",
+          "fotoIngrediente": "https://srecetas.es/system/images/276/content.19198.JPG"
+        },
+        {
+          "ingrediente": "1 cucharada de sal",
+          "fotoIngrediente": "https://libroderecetas.com/files/recetas/cucharadita.jpg"
+        },
+        {
+          "ingrediente": "1 cucharada de primienta",
+          "fotoIngrediente": "https://mejorconsalud.as.com/wp-content/uploads/2018/04/remedios-con-pimienta.jpg"
+        },
+        {
+          "ingrediente": "1 cucharada de mantequilla para la salsa",
+          "fotoIngrediente": "http://1.bp.blogspot.com/-XMN9t-cBmQc/VVuPGSpaZPI/AAAAAAAAAUo/VCZHNGlKLg0/s320/o-MANTEQUILLA-MARGARINA-facebook.jpg"
+        },
+        {
+          "ingrediente": "1 y 1/2 latas de crema de champiñones para la salsa",
+          "fotoIngrediente": "https://recetasdemama.com.mx/wp-content/uploads/2016/11/SopadeChampinones-1-595x390-1.jpg"
+        },
+        {
+          "ingrediente": "1 taza de leche para la salsa",
+          "fotoIngrediente": "https://danzadefogones.com/wp-content/uploads/2021/02/leche-de-coco-2.jpg"
+        },
+        {
+          "ingrediente": "2 pizcas de sal para la salsa",
+          "fotoIngrediente": "https://libroderecetas.com/files/recetas/cucharadita.jpg"
+        },
+        {
+          "ingrediente": "1 taza de queso manchego rallado",
+          "fotoIngrediente": "https://superpola.com/site/assets/files/10640/queso-rayado-parmesano-1.425x283.jpg"
+        }
+      ]
+    },
+    {
+      "título": "ENSALADA DE FRESAS Y AGUACATE",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/25914/22610.jpg",
+      "descripción": "Esta ensalada de fresas y aguacate es fresca con sabor ácido dulce y cremosa por el aguacate, tienes que probarla no creerás que bien combinan los sabores.",
+      "categoria": "Ensaladas",
+      "duración": "20 min",
+      "dificultad": "Fácil",
+      "preparación": "1-.Trocea la lechuga, colócala en una ensaladera y mezcla con el arúgula.2-.Retira el rabito de las fresas cortando con un cuchillo sobre la tabla, rebana y agrega a la ensalada.3-.Corta en dos el aguacate, retira la pulpa con ayuda de una cuchara para evitar maltratarlo; corta en cubos medianos y agrega a la ensalada.4-.Pica en la tabla el tocino frito y añade a la ensalada para decorar.5-.Para el aderezo, vierte en un bowl mediano el yogurt con la chía y sazona con la pimienta y la sal; sin dejar de batir incorpora el aceite de oliva y mezcla hasta integrar.6-.Sirve el aderezo en un plato y acompaña con la ensalada.",
+      "ingredientes": [
+        {
+          "ingrediente": "1 lechuga orejona, lavada, desinfectada y seca",
+          "fotoIngrediente": "https://www.elespectador.com/resizer/IuKZpi9E_Brv-WmMh6fGSrch9zc=/657x0/arc-anglerfish-arc2-prod-elespectador.s3.amazonaws.com/public/W7KZC5E4NFF6HLQRV4KOPGWFIA.jpg"
+        },
+        {
+          "ingrediente": "50 gramos de lechuga arúgula",
+          "fotoIngrediente": "https://images-na.ssl-images-amazon.com/images/I/419aFJstKML._AC_.jpg"
+        },
+        {
+          "ingrediente": "300 gramos de fresa, lavadas y desinfectadas",
+          "fotoIngrediente": "https://www.recetin.com/wp-content/uploads/2013/04/fresas.jpg"
+        },
+        {
+          "ingrediente": "2 aguacates",
+          "fotoIngrediente": "https://image.freepik.com/foto-gratis/aguacate-cortado-laminas-sobre-tabla-cortar-madera_33799-378.jpg"
+        },
+        {
+          "ingrediente": "150 gramos de tocino ahumado rebanado y frito",
+          "fotoIngrediente": "https://image.freepik.com/foto-gratis/rebanadas-tocino-crujiente-frito-caliente-sarten-madera_254005-225.jpg"
+        },
+        {
+          "ingrediente": "100 mililitros de yogurt natural para el aderezo ",
+          "fotoIngrediente": "https://www.latercera.com/resizer/rg_YKLuX6lv3iLPbTiiCz8KGyhU=/900x600/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/EP7OEFJTHZFHPJ4N6BVIZNVINE.jpg"
+        },
+        {
+          "ingrediente": "10 gramos de chia para el aderezo",
+          "fotoIngrediente": "https://image.freepik.com/foto-gratis/semilla-chia-cuchara-madera_25381-284.jpg"
+        },
+        {
+          "ingrediente": "1 pizca de pimienta para el aderezo",
+          "fotoIngrediente": "https://libroderecetas.com/files/recetas/cucharadita.jpg"
+        },
+        {
+          "ingrediente": "1 pizca de sal para el aderezo",
+          "fotoIngrediente": "https://mejorconsalud.as.com/wp-content/uploads/2018/04/remedios-con-pimienta.jpg"
+        },
+        {
+          "ingrediente": "50 mililitros de aceite de oliva para el aderezo",
+          "fotoIngrediente": "https://static3-sevilla.abc.es/Media/201310/14/aceite-oliva--644x362.jpg"
+        }
+      ]
+    }
+  ],
+  "categorias": [
+    {
+      "nombre": "Ensaladas",
+      "foto": "https://s1.eestatic.com/2016/10/11/cocinillas/cocinillas_162247460_116258364_1706x960.jpg"
+    },
+    {
+      "nombre":"Carne y aves",
+      "foto": "https://ichef.bbci.co.uk/news/800/cpsprodpb/3A14/production/_106486841_gettyimages-535786572.jpg"
+    },
+    {
+      "nombre":"Postre",
+      "foto": "https://cocina-casera.com/wp-content/uploads/2017/12/Flan-de-leche-condensada.-Postre-casero.jpg"
+    }
+  ],
+  "Ensaladas": [
+    {
+      "título": "ENSALADA DE FRESAS Y AGUACATE",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/25914/22610.jpg",
+      "descripción": "Esta ensalada de fresas y aguacate es fresca con sabor ácido dulce y cremosa por el aguacate, tienes que probarla no creerás que bien combinan los sabores.",
+      "categoria": "Ensaladas",
+      "duración": "20 min",
+      "dificultad": "Fácil",
+      "preparación": "1-.Trocea la lechuga, colócala en una ensaladera y mezcla con el arúgula.2-.Retira el rabito de las fresas cortando con un cuchillo sobre la tabla, rebana y agrega a la ensalada.3-.Corta en dos el aguacate, retira la pulpa con ayuda de una cuchara para evitar maltratarlo; corta en cubos medianos y agrega a la ensalada.4-.Pica en la tabla el tocino frito y añade a la ensalada para decorar.5-.Para el aderezo, vierte en un bowl mediano el yogurt con la chía y sazona con la pimienta y la sal; sin dejar de batir incorpora el aceite de oliva y mezcla hasta integrar.6-.Sirve el aderezo en un plato y acompaña con la ensalada.",
+      "ingredientes": [
+        {
+          "ingrediente": "1 lechuga orejona, lavada, desinfectada y seca",
+          "fotoIngrediente": "https://www.elespectador.com/resizer/IuKZpi9E_Brv-WmMh6fGSrch9zc=/657x0/arc-anglerfish-arc2-prod-elespectador.s3.amazonaws.com/public/W7KZC5E4NFF6HLQRV4KOPGWFIA.jpg"
+        },
+        {
+          "ingrediente": "50 gramos de lechuga arúgula",
+          "fotoIngrediente": "https://images-na.ssl-images-amazon.com/images/I/419aFJstKML._AC_.jpg"
+        },
+        {
+          "ingrediente": "300 gramos de fresa, lavadas y desinfectadas",
+          "fotoIngrediente": "https://www.recetin.com/wp-content/uploads/2013/04/fresas.jpg"
+        },
+        {
+          "ingrediente": "2 aguacates",
+          "fotoIngrediente": "https://image.freepik.com/foto-gratis/aguacate-cortado-laminas-sobre-tabla-cortar-madera_33799-378.jpg"
+        },
+        {
+          "ingrediente": "150 gramos de tocino ahumado rebanado y frito",
+          "fotoIngrediente": "https://image.freepik.com/foto-gratis/rebanadas-tocino-crujiente-frito-caliente-sarten-madera_254005-225.jpg"
+        },
+        {
+          "ingrediente": "100 mililitros de yogurt natural para el aderezo ",
+          "fotoIngrediente": "https://www.latercera.com/resizer/rg_YKLuX6lv3iLPbTiiCz8KGyhU=/900x600/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/EP7OEFJTHZFHPJ4N6BVIZNVINE.jpg"
+        },
+        {
+          "ingrediente": "10 gramos de chia para el aderezo",
+          "fotoIngrediente": "https://image.freepik.com/foto-gratis/semilla-chia-cuchara-madera_25381-284.jpg"
+        },
+        {
+          "ingrediente": "1 pizca de pimienta para el aderezo",
+          "fotoIngrediente": "https://libroderecetas.com/files/recetas/cucharadita.jpg"
+        },
+        {
+          "ingrediente": "1 pizca de sal para el aderezo",
+          "fotoIngrediente": "https://mejorconsalud.as.com/wp-content/uploads/2018/04/remedios-con-pimienta.jpg"
+        },
+        {
+          "ingrediente": "50 mililitros de aceite de oliva para el aderezo",
+          "fotoIngrediente": "https://static3-sevilla.abc.es/Media/201310/14/aceite-oliva--644x362.jpg"
+        }
+      ]
+    }
+  ],
+  "Postre": [
+    {
+      "título": "PASTEL DE PLATÁNO",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/36566/45430.jpg",
+      "descripción": "Dale la vuelta al pan de plátano con esta receta de pastelito relleno, sabor vainilla, con relleno de puré de plátano y hecho en forma de la fruta. Un pastelito en forma de plátano en presentación individual será perfecto para la hora del postre o como pastel para celebrar alguna ocasión especial. Esta es una presentación creativa para elaborar un rollo, el sabor es delicioso, tiene una forma divertida y el sabor y la textura que se logra son ligeros.",
+      "categoria": "Postre",
+      "duración": "30 min",
+      "dificultad": "Fácil",
+      "preparación": "1-.Para el bizcocho, bate las yemas con el azúcar hasta doblar tamaño y reserva; bate las claras con el azúcar hasta doblar tamaño y junta con la mezcla anterior. Incorpora poco a poco la harina cernida de forma envolvente y agrega la mantequilla derretida; finalmente, incorpora el colorante amarillo. Extiende en una plancha y hornea a 180 °C por 15 minutos.2-.Una vez que salga de horno, corta de inmediato la plancha en rectángulos de 15 x 10 cm aproximadamente, coloca el relleno, enrolla con la ayuda de una película plástica y da forma curva. Congela por 15 minutos.3-.Para el relleno, mezcla las yemas con la vainilla, el azúcar y la fécula de maíz. Calienta la leche y el puré de plátano. Agrega la leche caliente poco a poco a la mezcla de yemas y regresa todo junto al fuego por 5 minutos hasta que se espese, entonces, agrega el chocolate. Enfría y reserva.4-.Mezcla chocolate blanco con el aceite vegetal y el colorante amarillo. Con ayuda de un cucharón, cubre el pastelito con el chocolate y enfría por unos minutos. Sirve los pastelitos y decora con hierbabuena.",
+      "ingredientes": [
+        {
+          "ingrediente": "6 Yemas de huevo para el bizcocho.",
+          "fotoIngrediente": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Yemas.JPG/250px-Yemas.JPG"
+        },
+        {
+          "ingrediente": "1/2 de taza de azúcar para el bizcocho",
+          "fotoIngrediente": "https://4.bp.blogspot.com/-64dn73qX8nU/WMKLxB4gmOI/AAAAAAAS4yQ/B7t6Zp8GugoSxyTOEtcwTlOWGNyvQLOdgCLcB/s1600/azucar-adictamente.jpg"
+        },
+        {
+          "ingrediente": "6 Claras de huevo para el bizcocho",
+          "fotoIngrediente": "https://avicultura.com/wp-content/uploads/2019/04/Clara-de-huevo-para-proroduccion-de-hidrogeno-550x275.jpg"
+        },
+        {
+          "ingrediente": "1 taza de harina para el bizcohco",
+          "fotoIngrediente": "https://t1.rg.ltmcdn.com/es/images/7/6/3/cuanto_es_una_taza_en_gramos_71367_600.jpg"
+        },
+        {
+          "ingrediente": "1/4 de taza de mantequilla para el bizcocho",
+          "fotoIngrediente": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/ts/20170911094550/ri/673/picture/2017/9/shutterstock_195762665.jpg"
+        },
+        {
+          "ingrediente": "Colorante artifical liquido amarillo",
+          "fotoIngrediente": "https://deiman.com.mx/wp-content/uploads/2015/06/3790-AMARILLO-HUEVO-370-30ML-DEIMAN-600x600.jpg"
+        },
+        {
+          "ingrediente": "2 Yemas de huevo para el relleno",
+          "fotoIngrediente": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Yemas.JPG/250px-Yemas.JPG"
+        },
+        {
+          "ingrediente": "1/4 de taza de azucar para el relleno",
+          "fotoIngrediente": "https://4.bp.blogspot.com/-64dn73qX8nU/WMKLxB4gmOI/AAAAAAAS4yQ/B7t6Zp8GugoSxyTOEtcwTlOWGNyvQLOdgCLcB/s1600/azucar-adictamente.jpg"
+
+        },
+        {
+          "ingrediente": "2 cucharadas de fecula de maíz para el relleno",
+          "fotoIngrediente": "https://alimentos.org.es/img-alimentos.org.es/maizena.jpg"
+        },
+        {
+          "ingrediente": "1 cucharada de extracto de vainilla para el relleno",
+          "fotoIngrediente": "https://mejorconsalud.as.com/wp-content/uploads/2020/11/esencia-vainilla-casero-500x334.jpg"
+        },
+        {
+          "ingrediente": "1 y 1/2 tazas de pure de plátano para el relleno",
+          "fotoIngrediente": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2016/07/banana-puree.jpg"
+        },
+        {
+          "ingrediente": "1/2 taza de leche de para el relleno",
+          "fotoIngrediente": "https://danzadefogones.com/wp-content/uploads/2021/02/leche-de-coco-2.jpg"
+        },
+        {
+          "ingrediente": "2 cucharadas de chocolate semi-amargo para el relleno",
+          "fotoIngrediente": "https://www.lamansiondelasideas.com/wp-content/uploads/2017/02/GRANDE-COMO-FUNDIR-CHOCOLATE-TRUCOS-Y-CONSEJOS.jpg"
+        },
+        {
+          "ingrediente": "1 y 1/2 tazas de chocolate blancos para la cubierta",
+          "fotoIngrediente": "https://content-recetas.lecturas.com/medio/2018/11/19/paso_a_paso_para_realizar_coulant_nevado_de_chocolate_blanco_mezclar_el_chocolate_fundido_con_la_mantequilla_fa2404c4_662x1000.jpg"
+        },
+        {
+          "ingrediente": "1/4 de taza de aceite vegetal para la cubierta",
+          "fotoIngrediente": "https://www.lavanguardia.com/files/image_948_465/uploads/2018/06/29/5e9980e44b547.jpeg"
+        },
+        {
+          "ingrediente": "Colorante de gel amarillo",
+          "fotoIngrediente": "https://www.orquidea.com.co/image/cache/catalog/Products/Wilton/610-301_1-1000x1000.jpg"
+        },
+        {
+          "ingrediente": "Hojas de hierbabuena como decoracion",
+          "fotoIngrediente": "https://image.freepik.com/foto-gratis/hojas-hierbabuena-verde_5207-104.jpg"
+        }
+      ]
+    }
+  ],
+  "Carne y aves": [
+    {
+      "título": "ROLLOS DE POLLO CON SALSA DE CHAMPIÑONES",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/27190/25223.jpg",
+      "descripción": "Estos rollitos de pasta rellenos de pollo en salsa de champiñones, son cremosos por dentro y por fuera, bañados con una rica salsa de champiñones y gratinados con queso manchego que los hacen irresistiblemente deliciosos.",
+      "categoria": "Carnes y aves",
+      "duración": "55min",
+      "dificultad": "Fácil",
+      "preparación": "1-.Precalienta el horno a 180°C.2-.En una ollita con agua hirviendo y sal, cocina la pasta para lasaña según las instrucciones del paquete. Escurre y agrega una cucharada de aceite para evitar que se peguen y reserva.3-.En un sartén a fuego medio, saltea la cebolla en aceite de oliva con mantequilla hasta que esté transparente y enseguida agrega el ajo, cocina un minuto. Añade el pollo y cocina unos minutos.4-.Incorpora los champiñones y el tomillo y cocina por 5 minutos. Sazona con sal y pimienta. Reserva.5-.Para la salsa, en una ollita derrite la mantequilla y agrega la crema de champiñones Campbell’s® y la leche. Deja que suelte el hervor y sazona con sal. Reserva.6-.Para el armado, sobre una lámina de pasta coloca un poco del relleno de pollo y una cucharadita de la salsa de champiñones, enrolla y coloca en un refractario para horno. Repite.7-.Salsea todos los rollos con el resto de la salsa y cubre con el queso. Hornea por 15 minutos o hasta que el queso se derrita. Sirve de inmediato.",
+      "ingredientes": [
+        {
+          "ingrediente": "1 paquete de pasta de lasagna",
+          "fotoIngrediente": "https://i.pinimg.com/564x/4e/57/ca/4e57cabd6017703ba3fbddce56b3ef58.jpg"
+        },
+        {
+          "ingrediente": "1 cucharada de aceite para la pasta",
+          "fotoIngrediente": "https://ichef.bbci.co.uk/news/800/cpsprodpb/D422/production/_95160345_oil_comp.jpg"
+        },
+        {
+          "ingrediente": "2 cucharadas de aceite de oliva",
+          "fotoIngrediente": "https://static3-sevilla.abc.es/Media/201310/14/aceite-oliva--644x362.jpg"
+        },
+        {
+          "ingrediente": "1 cucharada de mantequilla",
+          "fotoIngrediente": "http://1.bp.blogspot.com/-XMN9t-cBmQc/VVuPGSpaZPI/AAAAAAAAAUo/VCZHNGlKLg0/s320/o-MANTEQUILLA-MARGARINA-facebook.jpg"
+        },
+        {
+          "ingrediente": "1/4 de taza de cebolla finamente picada",
+          "fotoIngrediente": "https://static2.abc.es/media/bienestar/2020/02/25/cebolla-pelada-k1mG--540x285@abc.jpg"
+        },
+        {
+          "ingrediente": "1 diente de ajo finamente picado",
+          "fotoIngrediente": "https://assets.tmecosys.com/image/upload/t_web667x528/img/recipe/ras/Assets/6396B92F-7107-468B-8389-0C2E7C05141F/Derivates/fcebe0e9-058e-4618-ad41-60d9a7280c45.jpg"
+        },
+        {
+          "ingrediente": "2 tazas de pechuga de pollo cocida y desmenuzada",
+          "fotoIngrediente": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2019/10/trucos-para-evitar-que-el-pollo-quede-seco.jpg"
+        },
+        {
+          "ingrediente": "1 taza de champiñon fileteado",
+          "fotoIngrediente": "https://cdn.kiwilimon.com/ss_secreto/562/th5-640x426-562.jpg"
+        },
+        {
+          "ingrediente": "1 cucharada de tomillo",
+          "fotoIngrediente": "https://srecetas.es/system/images/276/content.19198.JPG"
+        },
+        {
+          "ingrediente": "1 cucharada de sal",
+          "fotoIngrediente": "https://libroderecetas.com/files/recetas/cucharadita.jpg"
+        },
+        {
+          "ingrediente": "1 cucharada de primienta",
+          "fotoIngrediente": "https://mejorconsalud.as.com/wp-content/uploads/2018/04/remedios-con-pimienta.jpg"
+        },
+        {
+          "ingrediente": "1 cucharada de mantequilla para la salsa",
+          "fotoIngrediente": "http://1.bp.blogspot.com/-XMN9t-cBmQc/VVuPGSpaZPI/AAAAAAAAAUo/VCZHNGlKLg0/s320/o-MANTEQUILLA-MARGARINA-facebook.jpg"
+        },
+        {
+          "ingrediente": "1 y 1/2 latas de crema de champiñones para la salsa",
+          "fotoIngrediente": "https://recetasdemama.com.mx/wp-content/uploads/2016/11/SopadeChampinones-1-595x390-1.jpg"
+        },
+        {
+          "ingrediente": "1 taza de leche para la salsa",
+          "fotoIngrediente": "https://danzadefogones.com/wp-content/uploads/2021/02/leche-de-coco-2.jpg"
+        },
+        {
+          "ingrediente": "2 pizcas de sal para la salsa",
+          "fotoIngrediente": "https://libroderecetas.com/files/recetas/cucharadita.jpg"
+        },
+        {
+          "ingrediente": "1 taza de queso manchego rallado",
+          "fotoIngrediente": "https://superpola.com/site/assets/files/10640/queso-rayado-parmesano-1.425x283.jpg"
+        }
+      ]
+    }
+  ]
+}
